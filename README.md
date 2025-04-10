@@ -1,4 +1,4 @@
-# app-dev - Jhon Prince William Enong
+# app-dev - Jhon Prince William Enong (author)
 ! My first repository 
 
 
