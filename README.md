@@ -3,8 +3,6 @@
 
 
 
-patch-1
-aslkdjl;kasjflk;jas
 
 ## Favorite series/movies
 
