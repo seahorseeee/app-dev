@@ -1,4 +1,4 @@
-# app-dev
+# app-dev - Jhon Prince William Enong
 ! My first repository 
 
 
